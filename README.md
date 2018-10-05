@@ -4,3 +4,11 @@ This repository details the methods used to develop a quantitative strategy to b
 
 This repository contains the code, instructions and a brief paper on the results.
 
+The data can be obtained at [link].
+
+The flowchart describes how the programs fit together.
+
+Big thanks to www.football-data.co.uk for the open-sourced data and to Thomas Heslop for creating the betfair R API.
+
+
+
