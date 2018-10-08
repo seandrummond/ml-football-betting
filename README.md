@@ -2,7 +2,7 @@
 
 This repository details the methods used to develop a quantitative strategy to bet on markets in professional football (soccer) matches. The strategy has three unique characteristics; feature engineering, use of look-up-tables for confident bet selection, and a statistical method to maximize return. Machine Learning algorithms, probabilistic & statistical methods and football knowledge were all used to develop this strategy.
 
-Raw data was obtained from www.footballdata.co.uk on nine of the top European Football Leagues and odds pricing on upcoming matches in those leagues from BetFair’s API. Data on each team’s match performance was used, rather than data on individual players. The strategy analysed eleven different markets for each match.
+Raw data was obtained from www.footballdata.co.uk on nine of the top European Football Leagues and odds pricing on upcoming matches in those leagues from BetFair’s API. Data on each team’s match performance was used, rather than data on individual players. The strategy analysed nine different markets for each match.
 
 The strategy was trialled over twelve matchweeks from the 09/02/2018 to the 27/04/2018 and resulted in 89% of the 27 placed bets winning. This generated an accumulative return of 38%.
 
