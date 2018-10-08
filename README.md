@@ -13,13 +13,21 @@ This repository contains the code, instructions and a brief paper on the results
 
 The data can be obtained at [https://drive.google.com/open?id=1ER31w4F_wUeidBUWOHkTy9JqgcUURtFa].
 
-The flowchart describes how the programs fit together.
-
 Big thanks to www.football-data.co.uk for the open-sourced data and to Thomas Heslop for creating the betfair R API.
 
+
+## File Description
 DataPrep.r - Feature Engineering and Data Preparation
+
 Model.r - Modelling
+
 CAP.r - Confidence Accuracy Proportion Look Up Table Generation
+
 POR.r - Prediction Odd Request Function
+
 ROS.r - Return Maximization Strategy
+
+Flowchart.pdf - Flowchart showing how files fit together
+
+Paper.pdf - Paper on Results
 
